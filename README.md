@@ -1,6 +1,6 @@
 
 # Merhaba ben Batuhan.
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/808735393478082583)](https://discord.com/users/808735393478082583)
+[![Discord Presence](https://discord.com/users/808735393478082583)
 ## Hakkımda
 - Discord platformunda Minecraft Sunucuları & YouTuber, topluluk sunucuları için bot geliştiriyorum.
 
