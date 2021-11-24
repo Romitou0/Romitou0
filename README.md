@@ -1,6 +1,4 @@
 
-# Merhaba ben Batuhan.
-[![Discord Presence](https://discord.com/users/808735393478082583)
 ## Hakkımda
 - Discord platformunda Minecraft Sunucuları & YouTuber, topluluk sunucuları için bot geliştiriyorum.
 
