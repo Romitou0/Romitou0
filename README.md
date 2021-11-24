@@ -1,5 +1,5 @@
 
-# Merhaba ben Mercy.
+# Merhaba ben Batuhan.
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/808735393478082583)](https://discord.com/users/808735393478082583)
 ## Hakkımda
 - Discord platformunda Minecraft Sunucuları & YouTuber, topluluk sunucuları için bot geliştiriyorum.
@@ -10,7 +10,7 @@
 ![Romitou](https://github-readme-stats.vercel.app/api?username=romitou0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
 ## Sosyal Medya Hesaplarım
-- Discord: [Mêrcy.#1000](https://discord.com/users/808735393478082583)
+- Discord: [Romitou#9492](https://discord.com/users/808735393478082583)
 
 
 
